@@ -29,7 +29,7 @@ public abstract class AllActivity extends Activity {
 
         protected void onResume() {
                 super.onResume();
-                System.out.println("onResume");
+                System.out.println("onResume command");
         }
 
         protected void onPause() {
